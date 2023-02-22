@@ -1,0 +1,11 @@
+{
+	"name": "local",
+	"type": "module",
+	"exports": {
+		"./lib": "./lib/index.js",
+		"./store": "./store.js",
+		"./icons": "./ui/icons/index.js",
+		"./hooks": "./hooks/index.js",
+		"./db": "./db/index.js"
+	}
+}
